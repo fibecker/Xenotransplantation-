@@ -1,5 +1,7 @@
 # Xenotransplantation
 Repository for preclinical and clinical xenotransplantation analyses.
+
+Folder structure:
 ```
 ├── Preclinical/
 │   ├── Global object annotation/
