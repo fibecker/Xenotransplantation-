@@ -26,6 +26,8 @@ Folder structure:
 │   └── Functional enrichment analysis/
 └── Clinical/
     ├── Global object annotation/
+│   │   ├── Mapping/
+│   │   └── Solo/
     ├── Subclustering/
     ├── Pseudobulk analysis/
     ├── Wilcox/
